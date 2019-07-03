@@ -16,4 +16,5 @@ function Mostrar(){
 	for(var i = 1;i < ing.length && ing.length > 0;i++){
 		document.getElementById("lista").innerHTML += "<li>"+ing[i]+"</li>";
 	}
+alert("Fim Do Game");
 }
